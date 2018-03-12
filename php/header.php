@@ -17,10 +17,5 @@ foreach ($scriptList as $script) {
         <a href="#content" id="logo">
           <img src="./images/titletext.png" alt="Joshrl.me Logo" height="20">
         </a>
-	      <nav>
-	         <a class="navlink" href="#projects">Projects</a>
-	         <a class="navlink" href="#about-me">About Me</a>
-	         <a class="navlink" href="#contact">Contact</a>
-	      </nav>
       </div>
     </div>
