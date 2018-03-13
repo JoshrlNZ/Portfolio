@@ -16,7 +16,7 @@ foreach ($scriptList as $script) {
     <div id="bar">
       <div id="bar-contents">
         <a href="#content" id="logo">
-          <img src="./images/titletext.png" alt="Joshrl.me Logo" height="20">
+          <img src="./images/titletext.png" alt="Joshrl.me Logo" height="20" width="142">
         </a>
       </div>
     </div>
