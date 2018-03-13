@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name=viewport content='width=1024'>
+    <meta http-equiv="Cache-Control" content="max-age=3600" />
     <title>Joshrl.me - Online Portfolio</title>
     <link rel="stylesheet" href="style.css">
 <?php
