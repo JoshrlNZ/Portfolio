@@ -305,3 +305,7 @@ footer a:visited {
 footer a:hover {
   color: #dbdbdb;
 }
+
+.header-line {
+  fill: #3fa9f4;
+}
