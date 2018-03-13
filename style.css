@@ -110,6 +110,8 @@ nav {
   margin-right: auto;
   width: 61em;
   padding-top: 2em;
+  padding-left: 2em;
+  padding-right: 2em;
 }
 
 #intro-speech {
