@@ -111,7 +111,7 @@ nav {
 .content {
   margin-left: auto;
   margin-right: auto;
-  width: 60em;
+  max-width: 58em;
   padding-top: 2em;
   padding-left: 2em;
   padding-right: 2em;
